@@ -1,0 +1,4 @@
+Jose,23:23:42,23:28:11,0,5m 31s,Nuevo Servicio,1
+Andrea,23:27:23,23:34:26,1,7m 3s,Reclamos,1
+Mafer,23:27:40,23:36:55,N/A,9m 15s,Falla en Servicio,1
+Jose,23:34:01,23:41:34,5,7m 33s,Reclamos,1
